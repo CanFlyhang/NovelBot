@@ -317,17 +317,11 @@ NovelBot 在此基础上重点做了以下强化：
 
 > 以下为示意占位，你可以替换为自己实际的截图。
 
-- 管理后台主页：小说列表、进度与每日产量  
-  `docs/screenshot-dashboard.png`
+- 管理后台主页：小说列表、进度与每日产量
+<img width="2560" height="1368" alt="image" src="https://github.com/user-attachments/assets/3a908ebd-8758-4769-a6db-1f7e00427223" />
 - 章节正文查看弹窗  
-  `docs/screenshot-chapter-view.png`
+<img width="1118" height="541" alt="image" src="https://github.com/user-attachments/assets/49021b8c-bd58-433d-8a61-dcf541810058" />
 
-建议在 `docs/` 目录下放两三张关键界面截图，并在此处改成：
-
-```markdown
-![Dashboard](docs/屏幕截图%202026-02-17%20131225.png)
-![Chapter Viewer](docs/屏幕截图%202026-02-17%20171638.png)
-```
 
 ---
 
