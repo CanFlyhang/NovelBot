@@ -189,7 +189,7 @@ NovelBot 是一个基于大语言模型（如 DeepSeek）的本地小说创作�
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/your-name/NovelBot.git
+git clone https://github.com/CanFlyhang/NovelBot.git
 cd NovelBot
 ```
 
