@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+SQLAlchemy
+ pydantic
+requests
+PyMySQL
+Jinja2
+python-docx
