@@ -325,8 +325,8 @@ NovelBot 在此基础上重点做了以下强化：
 建议在 `docs/` 目录下放两三张关键界面截图，并在此处改成：
 
 ```markdown
-![Dashboard](docs/screenshot-dashboard.png)
-![Chapter Viewer](docs/screenshot-chapter-view.png)
+![Dashboard](docs/屏幕截图%202026-02-17%20131225.png)
+![Chapter Viewer](docs/屏幕截图%202026-02-17%20171638.png)
 ```
 
 ---
